@@ -35,6 +35,8 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .NET Framework is automatically included -->
+    <None Include="Midgard.Base32.nuspec" />
+    <None Include="publish.ps1" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Base32Converter.cs" />

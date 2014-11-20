@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Patrick Kranz</authors>
+    <owners>Patrick Kranz</owners>
+    <licenseUrl>https://base32.codeplex.com/license</licenseUrl>
+    <projectUrl>https://base32.codeplex.com/</projectUrl>
+    <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Converts bytes to base 32 encoded Strings</description>
+    <releaseNotes>Initial Commit.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Base32 Base 32 encoder PCL .net winrt wp</tags>
+  </metadata>
+</package>

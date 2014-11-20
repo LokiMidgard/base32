@@ -46,7 +46,7 @@ namespace Midgard.Base32.Test
         public void TestMethodException()
         {
             byte[] input = null;
-            var expected = "Exception";
+            //var expected = "Exception";
             try
             {
                 var result = Base32Converter.ToBase32String(input);
